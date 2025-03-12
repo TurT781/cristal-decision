@@ -57,7 +57,8 @@ pip install pandas plotly
 ```
 
 Puis, lancez le script avec le bouton:
-![Run All](https://img.shields.io/badge/Run_All-blue?style=for-the-badge)
+
+ ![Run All](https://img.shields.io/badge/Run_All-white?style=for-the-badge)
 
 ---
 
