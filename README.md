@@ -17,7 +17,7 @@ Le programme développé permet de :
 
 ## Technologies utilisées
 
-- **Python** (environnement Anaconda)
+- **Python**
 - **Pandas** pour le traitement et la manipulation des données
 - **Plotly** pour la création de visualisations interactives
 
