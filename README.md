@@ -1,8 +1,8 @@
-# Test Technique Cristal-Decision
+# Test Technique Cristal-Decisions
 
 ## Présentation du projet
 
-Ce projet a été réalisé dans le cadre d'un test technique pour l'entreprise Cristal-Decision, pour une candidature en alternance de 3ème année à Epitech. L'objectif était d'analyser un jeu de données énergétiques avec des relevés effectués toutes les 10 minutes du 1/4/2020 au 1/3/2022.
+Ce projet a été réalisé dans le cadre d'un test technique pour l'entreprise Cristal-Decisions, pour une candidature en alternance de 3ème année à Epitech. L'objectif était d'analyser un jeu de données énergétiques avec des relevés effectués toutes les 10 minutes du 1/4/2020 au 1/3/2022.
 
 ## Fonctionnalités
 
